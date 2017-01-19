@@ -1,0 +1,1 @@
+g++ -Wall -std=c++11 -I./include/ main.cpp -o main.exe
