@@ -1,4 +1,4 @@
-<h1>Open/Close Principle Example - Full Stack</h1>
+<h1>Component - Open/Close Principle  - Example - Full Stack</h1>
 
 The UML "class" diagram of this example:
 
